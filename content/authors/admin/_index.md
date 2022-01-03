@@ -14,8 +14,8 @@ social:
     icon_pack: fab
     link: https://instagram.com/geocushen
 organizations:
-  - name: 腾讯
-    url: ""
+  - name: University of California Irvine
+email: agomez10@uci.edu
 superuser: true
 status:
   icon: ☕️
